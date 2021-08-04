@@ -9,8 +9,8 @@ Dúvidas, entre em contato com o suporte CRM PipeRun.
 
 ```
 
-### Importante, este script já coleta dados de UTM e cadastra juntamenta à oportunidade dentro de campos customizados no CRM PipeRun, que se não existirem, serão criados.
+### **Importante, este script já coleta dados de UTM e cadastra juntamenta à oportunidade dentro de campos customizados no CRM PipeRun, que se não existirem, serão criados.
 
-### Alterar a HASH da etapa do funil na linha 95 do código.
+### ** Lembre de alterar a [HASH da etapa do funil](https://app.pipe.run/v2/settings/pipelines) na linha 95 do código.
 
 [Veja o script aqui](https://github.com/dinhogehm/unbounce-piperun/blob/main/script-integration.js)
