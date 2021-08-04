@@ -9,7 +9,7 @@ Dúvidas, entre em contato com o suporte CRM PipeRun.
 
 ```
 
-### Importante, este script já coleta dados de UTM e cadastra juntamenta à oportunidade dentro de campos customizados, que se não existirem, serão criados.
+### Importante, este script já coleta dados de UTM e cadastra juntamenta à oportunidade dentro de campos customizados no CRM PipeRun, que se não existirem, serão criados.
 
 ### Alterar a HASH da etapa do funil na linha 95 do código.
 
