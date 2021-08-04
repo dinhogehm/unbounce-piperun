@@ -9,6 +9,8 @@ Dúvidas, entre em contato com o suporte CRM PipeRun.
 
 ```
 
+## Lembretes:
+
 ### 1. Importante, este script já coleta dados de UTM e cadastra juntamenta à oportunidade dentro de campos customizados no CRM PipeRun, que se não existirem, serão criados.
 
 ### 2. Lembre de alterar a [HASH da etapa do funil](https://app.pipe.run/v2/settings/pipelines) na linha 95 do código.
